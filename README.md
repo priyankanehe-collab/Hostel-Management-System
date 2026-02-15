@@ -1,2 +1,2 @@
-# Hostel-Management-System
+# Heart Disease Prediction
 Author-priyanka nehe
